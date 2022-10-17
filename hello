@@ -1,0 +1,6 @@
+#!/bin/bash
+
+NAME="Leia"
+
+echo "Hello ${NAME}"
+
